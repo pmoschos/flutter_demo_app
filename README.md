@@ -38,7 +38,7 @@ flutter run
 
 ![image](https://github.com/pmoschos/flutter_demo_app/assets/133533759/a99b2e93-4e95-4f27-82f0-a78d446be2a4)
 
-## Code Snippet 💻
+## 💻 Code Snippet 
 ```
 import 'package:flutter/material.dart';
 
